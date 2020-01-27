@@ -1,0 +1,10 @@
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind", "Northwind\Northwind.csProj", "{2279F595-3007-48B2-A5B5-918FE28C78AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENV", "ENV\ENV.csProj", "{0F6E94B3-0111-4A10-B1B5-38D4847658E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindBase", "NorthwindBase\NorthwindBase.csProj", "{b8af9bb2-ff23-4189-a4e7-3aa00561ed38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindInterfaces", "NorthwindInterfaces\NorthwindInterfaces.csProj", "{710ef343-27dd-4194-9b3d-d5a0bd74dd3f}"
+EndProject
